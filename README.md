@@ -1,4 +1,4 @@
-![headshot](20200713_171518.jpg)
+![headshot](headshot.jpg)
 # A little Insight Into Gilbert Adikankwu
 Hi Everyone! My name is Gilbert Adikankwu and I am `Python`-Dev, Data Analyst and Blockchain enthusiast. This README with give you a bit of information about me.
 
