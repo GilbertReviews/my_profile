@@ -9,8 +9,8 @@ I really love working Data. Specifically, I love being in a position where I can
 One of my favorite thing to do is listen to Rap music - even though I can't rap to save my life lol, just listening to the rhyming of words on the complex beats and feeling the vibe is enough for me. I also love reading about famous innovators and playing car racing video games, need for speed is my favourite. 
 
 ## Favorite books 
-1 The 48 Laws Of Power - Robert Greene
-2 The Four Agreement
-3 Fools Die - Mario Puzo
-4 Fourth Estate
-5 GitHub For Dummies - Sarah  Guthals
+- The 48 Laws Of Power - Robert Greene
+- The Four Agreement
+- Fools Die - Mario Puzo
+- Fourth Estate
+- GitHub For Dummies - Sarah  Guthals
